@@ -1,0 +1,36 @@
+{
+  "name": "jsx-code-challenge-completed",
+  "version": "1.0.0",
+  "description": "Created with CodeSandbox",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.11.0",
+    "react-dom": "16.11.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoDeR-99/JSX-Code-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoDeR-99/JSX-Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/CoDeR-99/JSX-Code-Challenge#readme"
+}
