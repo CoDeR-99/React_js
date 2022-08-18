@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(237, 165, 177);
+    text-align: center;
+}
+
+.heading{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-bottom: 16px;
+}
+
+.my-style{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.my-style img{
+    width: 500px;
+    height: 450px;
+}
